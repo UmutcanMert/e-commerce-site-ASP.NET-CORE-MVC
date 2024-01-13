@@ -1,5 +1,5 @@
 #### e-commerce-site-ASP.NET-CORE-MVC
-###### 1
+###### Homepage
 <table>
   <tr>
     <td>
@@ -12,7 +12,7 @@
 </table>
 <hr>
 
-##### 2
+##### Login-Register
 <table>
   <tr>
     <td>
@@ -25,7 +25,7 @@
 </table>
 <hr>
 
-##### 3
+##### Login-Register
 <table>
   <tr>
     <td>
