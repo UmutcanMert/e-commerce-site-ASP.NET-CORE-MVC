@@ -12,7 +12,7 @@
 </table>
 <hr>
 
-##### Login - Register
+##### Login Register
 <table>
   <tr>
     <td>
