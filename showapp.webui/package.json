@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.6.2",
+    "ckeditor": "^4.12.1",
+    "jquery-validation": "^1.20.0",
+    "jquery-validation-unobtrusive": "^4.0.0"
+  },
+  "name": "showapp.webui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,49 @@
+@model ProductListViewModel
+
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Admin Ürünler</h1>
+        <hr>
+        <a class="btn btn-info btn-sm" href="/admin/products/create">Ürün Ekle</a>
+        <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Image</th>
+                <th scope="col">Name</th>
+                <th scope="col">Fiyat</th>
+                <th scope="col" style="width: 150px;"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @if(Model.Products.Count > 0)
+            {
+                @foreach (var item in Model.Products)
+                {
+                    <tr>
+                        <td>@item.ProductId</td>
+                        <td> <img src="~/images/@item.ImageUrl" width="80"alt=""></td>
+                        <td>@item.Name</td>
+                        <td>@item.Price</td>
+                        <td>
+                            <a href="/admin/products/@item.ProductId" class="btn btn-warning btn-sm mr-2">Düzenle</a>
+                            <form action="/admin/deleteproduct" method="POST" style="display: inline;">
+                                <input type="hidden" name="productId" value="@item.ProductId">
+                                <button type="submit" class="btn btn-dark btn-sm mr-2">Sil</button>
+                            </form>
+
+
+                        </td>
+                    </tr>
+                }
+            }else
+            {
+                <div class="alert alert-warning">
+                    <h3>Ürün bulunamadı</h3>
+                </div>
+            }
+        </tbody>
+        </table>
+    </div>
+</div>

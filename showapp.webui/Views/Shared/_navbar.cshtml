@@ -1,0 +1,72 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="/">PazarYolu.com</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="/home/index">Ana Sayfa <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/" >Ürünler</a>
+            </li>
+
+            @if(User.Identity.IsAuthenticated) //Kullanıcı giris yaptıysa logout gösterilir.
+            {
+                <li class="nav-item">
+                    <a class="nav-link" href="/cart">Siparişler</a>
+                </li>
+
+                @if(User.IsInRole("Admin"))
+                {
+                    <li class="nav-item">
+                        <a class="nav-link" href="/admin/products" >Admin Ürünler</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/admin/categories" >Admin Kategoriler</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/admin/role/list" >Roller</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/admin/user/list" >Kullanıcılar</a>
+                    </li>
+                }
+            }
+        </ul>
+
+        <ul class="navbar-nav ml-auto">
+
+            @if(User.Identity.IsAuthenticated) //Kullanıcı giris yaptıysa logout gösterilir.
+            {
+                <li class="nav-item">
+                    <a class="nav-link" href="/account/manage">
+                    @User.Identity.Name</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/account/logout">Logout</a>
+                </li>
+            }
+            else
+            {
+                <li class="nav-item">
+                    <a class="nav-link" href="/account/login">Login</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/account/register">Register</a>
+                </li>
+            }
+
+            
+            
+        </ul>
+
+    </div>
+</nav>
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 class="display-4">PazarYolu.com</h1>
+        <p class="lead">PazarYolu Mağazamıza Hoşgeldiniz. Aradığınız tüm ürünleri burada bulabilirsiniz.</p>
+    </div>
+</div>

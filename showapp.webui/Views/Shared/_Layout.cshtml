@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/modules/bootstrap/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    @RenderSection("Css",false)
+    <title>PazarYolu.com</title>
+
+</head>
+<body class="d-flex flex-column min-vh-100">
+
+    
+    <header>
+    @await Html.PartialAsync("_navbar")
+
+    </header>
+
+    <main class="mb-3 flex-grow-1">
+        <div class="container">
+            
+            @if (TempData["message"] != null)
+            {
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="alert alert-warning">
+                            @TempData["message"]
+                        </div>
+                    </div>
+                </div>
+            }
+
+            @RenderBody()
+        </div>
+    </main>
+
+    <footer class="py-4 bg-dark text-white text-center footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 mb-2">
+                    PazarYolu | 2023
+                </div>
+                <div class="col-md-6 offset-md-3">
+                    <a class="nav-link" style="color: white; display: block;" href="#">Hakkımızda</a>
+                </div>
+                <div class="col-md-6 offset-md-3">
+                    <a class="nav-link" style="color: white; display: block;" href="#">İletişim</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    @RenderSection("Scripts",false)
+
+</body>
+</html>

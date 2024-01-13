@@ -1,0 +1,45 @@
+@model IEnumerable<IdentityRole>
+
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Role List</h1>
+        <hr>
+        <a class="btn btn-info btn-sm" href="/admin/role/create">Rol Ekle</a>
+        <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Role Name</th>
+                <th scope="col" style="width: 150px;"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @if(Model.Count() > 0)
+            {
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Name</td>
+                        <td>
+                            <a href="/admin/role/@item.Id" class="btn btn-warning btn-sm mr-2">Düzenle</a>
+                            <form action="/admin/role/delete" method="POST" style="display: inline;">
+                                <input type="hidden" name="RoleId" value="@item.Id">
+                                <button type="submit" class="btn btn-dark btn-sm mr-2">Sil</button>
+                            </form>
+
+
+                        </td>
+                    </tr>
+                }
+            }else
+            {
+                <div class="alert alert-warning">
+                    <h3>Rol bulunamadı</h3>
+                </div>
+            }
+        </tbody>
+        </table>
+    </div>
+</div>

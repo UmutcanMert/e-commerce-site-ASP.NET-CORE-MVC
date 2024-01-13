@@ -1,0 +1,49 @@
+@model ProductDetailModel
+
+
+
+<div class="row">
+<div class="col-md-3">
+    <img src="~/images/@Model.Product.ImageUrl" alt="phone" class="img-fluid">
+</div>
+<div class="col-md-9">
+    <div class="card-body">
+        <h5 class="mb-3">@Model.Product.Name</h5> <hr>
+
+        @foreach(var item in Model.Categories) //kategori isimleri dinamik olusuyor.
+        {
+            <a asp-controller="shop" asp-action="list" asp-route-category="@item.Url" class="btn btn-link p-0 mb-3">@item.Name </a>    
+        }
+        <div class="mb-3">
+            <h4 class="text-primary mb-3">
+                <small class="text-muted">
+                    <p>@Model.Product.Price
+                        <i class="fas fa-turkish-lira-sign "></i>
+                    </p>
+                </small>
+            </h4>
+
+            <form asp-controller="Cart" asp-action="AddToCart" method="POST" class="form-inline">
+                    <input type="hidden" name="productId" value="@Model.Product.ProductId">
+                    <div class="input-group mb-3">
+                        <input type="number" name="quantity" class="form-control" value="1" min="1" step="1" style="width: 100px;">
+                        <div class="input-group-append">
+                            <button type="submit" class="btn btn-warning">
+                                <i class="fas fa-cart-plus"></i>Sepete Ekle
+                            </button>
+                        </div>
+                    </div>
+            </form>
+        </div>
+
+        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+    
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+    <p class="p-3">@Html.Raw(Model.Product.Description)</p>
+</div>
+</div>
+

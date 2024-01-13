@@ -1,0 +1,17 @@
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\bin\Debug\net7.0\shopapp.business.deps.json
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\bin\Debug\net7.0\shopapp.business.dll
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\bin\Debug\net7.0\shopapp.business.pdb
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\bin\Debug\net7.0\shopapp.data.dll
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\bin\Debug\net7.0\shopapp.entity.dll
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\bin\Debug\net7.0\shopapp.entity.pdb
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\bin\Debug\net7.0\shopapp.data.pdb
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\obj\Debug\net7.0\shopapp.business.csproj.AssemblyReference.cache
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\obj\Debug\net7.0\shopapp.business.GeneratedMSBuildEditorConfig.editorconfig
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\obj\Debug\net7.0\shopapp.business.AssemblyInfoInputs.cache
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\obj\Debug\net7.0\shopapp.business.AssemblyInfo.cs
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\obj\Debug\net7.0\shopapp.business.csproj.CoreCompileInputs.cache
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\obj\Debug\net7.0\shopapp.business.csproj.CopyComplete
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\obj\Debug\net7.0\shopapp.business.dll
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\obj\Debug\net7.0\refint\shopapp.business.dll
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\obj\Debug\net7.0\shopapp.business.pdb
+D:\internet_programlama\my_e_ticaret_project\shopapp.business\obj\Debug\net7.0\ref\shopapp.business.dll

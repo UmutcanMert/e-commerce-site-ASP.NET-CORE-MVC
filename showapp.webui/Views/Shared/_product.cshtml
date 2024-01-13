@@ -1,0 +1,37 @@
+@using shopapp.entity
+@model Product
+
+<div class="card mb-2">
+    <img src="~/images/@Model.ImageUrl" class="card-img-top" alt="Iphone" >
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <small class="text-muted">
+            <p>@Model.Price
+                <i class="fas fa-turkish-lira-sign"></i>
+            </p>
+        </small>
+      @*  <p>@Model.Price TL</p> 
+        <a href="/product/details/@Model.ProductId" class="btn btn-info btn" >İncele</a> *@
+        <div class="card-footer text-center" >
+            <a asp-controller="shop" asp-action="Details" asp-route-url="@Model.Url" class="btn btn-info btn" >Detay</a>
+
+            @if(User.Identity.IsAuthenticated)
+            {
+                <form asp-controller="Cart" asp-action="AddToCart" style="display: inline;" method="POST">
+                    <input type="hidden" name="productId" value="@Model.ProductId">
+                    <input type="hidden" name="quantity" value="1">
+                    <button type="submit" class="btn btn-warning btn">Ekle</button>
+                </form>
+            }
+
+
+        </div>
+    @*   <a href="/product/edit/@Model.ProductId" class="btn btn-warning" >Düzenle</a>        
+        
+       <form method="post" action="/product/delete" style="display: inline;">
+            <input type="hidden" name="ProductId" value="@Model.ProductId">
+            <button type="submit" class="btn btn-danger">Sil</button>
+        </form> *@
+        
+    </div>
+</div>

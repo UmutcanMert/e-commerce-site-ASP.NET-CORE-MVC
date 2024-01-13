@@ -1,0 +1,257 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\1349bd3f-00d0-48db-9191-086936ac8123.jpg",
+      "PackagePath": "staticwebassets\\images\\1349bd3f-00d0-48db-9191-086936ac8123.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\1402a696-5a48-43b5-952b-e3a34d3a7ab7.jpg",
+      "PackagePath": "staticwebassets\\images\\1402a696-5a48-43b5-952b-e3a34d3a7ab7.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\28c360ab-114a-4da2-bba6-5e2a492f69df.jpg",
+      "PackagePath": "staticwebassets\\images\\28c360ab-114a-4da2-bba6-5e2a492f69df.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\33ff025f-b1d4-4f75-91ec-2247fbd54a73.jpg",
+      "PackagePath": "staticwebassets\\images\\33ff025f-b1d4-4f75-91ec-2247fbd54a73.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\3614cc33-c9fb-4fdb-8304-8f3604197898.jpg",
+      "PackagePath": "staticwebassets\\images\\3614cc33-c9fb-4fdb-8304-8f3604197898.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\39cb673d-f7a4-4c00-ba2d-df9ee68d2bd0.jpg",
+      "PackagePath": "staticwebassets\\images\\39cb673d-f7a4-4c00-ba2d-df9ee68d2bd0.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\57a276a8-b49b-40f4-87e9-23ec4301ff22.jpg",
+      "PackagePath": "staticwebassets\\images\\57a276a8-b49b-40f4-87e9-23ec4301ff22.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\58091796-76f0-49d6-8a7a-e61083f70a6c.jpg",
+      "PackagePath": "staticwebassets\\images\\58091796-76f0-49d6-8a7a-e61083f70a6c.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\58839fec-ecef-4c35-b446-21e30343fbc3.jpg",
+      "PackagePath": "staticwebassets\\images\\58839fec-ecef-4c35-b446-21e30343fbc3.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\5a2add4c-ee3a-4e1c-93f2-484810cf42ea.jpg",
+      "PackagePath": "staticwebassets\\images\\5a2add4c-ee3a-4e1c-93f2-484810cf42ea.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\5a64ce63-7859-456d-a1b5-8cb1d62cb17a.jpg",
+      "PackagePath": "staticwebassets\\images\\5a64ce63-7859-456d-a1b5-8cb1d62cb17a.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\5c42e93c-7330-4874-b763-afdd83ac7c0a.jpg",
+      "PackagePath": "staticwebassets\\images\\5c42e93c-7330-4874-b763-afdd83ac7c0a.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\6.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\626f74ca-fd6f-47ce-950d-54300cb050d9.jpg",
+      "PackagePath": "staticwebassets\\images\\626f74ca-fd6f-47ce-950d-54300cb050d9.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\663084a7-549f-406a-9fec-3696aa657988.jpg",
+      "PackagePath": "staticwebassets\\images\\663084a7-549f-406a-9fec-3696aa657988.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\6c9bc3d7-b442-4185-a007-5285b5882adc.jpg",
+      "PackagePath": "staticwebassets\\images\\6c9bc3d7-b442-4185-a007-5285b5882adc.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\6e5e0e3e-774c-4d50-b3de-7ad06d50238f.jpg",
+      "PackagePath": "staticwebassets\\images\\6e5e0e3e-774c-4d50-b3de-7ad06d50238f.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\7ab0aeef-8ece-4010-961e-970983bdaf46.jpg",
+      "PackagePath": "staticwebassets\\images\\7ab0aeef-8ece-4010-961e-970983bdaf46.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\92d65d3e-8bf6-44d2-b1a0-356ddbe21b4e.jpg",
+      "PackagePath": "staticwebassets\\images\\92d65d3e-8bf6-44d2-b1a0-356ddbe21b4e.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\9c640f30-6f90-4fc4-a986-740a9643aba3.jpg",
+      "PackagePath": "staticwebassets\\images\\9c640f30-6f90-4fc4-a986-740a9643aba3.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\Xiaomi-Redmi-Note-10.jpg",
+      "PackagePath": "staticwebassets\\images\\Xiaomi-Redmi-Note-10.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\a14f202c-f101-4568-84a7-a7200474d7f0.jpg",
+      "PackagePath": "staticwebassets\\images\\a14f202c-f101-4568-84a7-a7200474d7f0.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\ad9e8b15-d4b2-457c-8c40-0d1b5e42d39b.jpg",
+      "PackagePath": "staticwebassets\\images\\ad9e8b15-d4b2-457c-8c40-0d1b5e42d39b.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\adcdc66d-5f95-4a0b-a300-3e7e7cadcbf4.jpg",
+      "PackagePath": "staticwebassets\\images\\adcdc66d-5f95-4a0b-a300-3e7e7cadcbf4.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\b357c53b-b513-4408-8bab-46f7309eb0b6.jpg",
+      "PackagePath": "staticwebassets\\images\\b357c53b-b513-4408-8bab-46f7309eb0b6.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\baadc0c3-eae4-4cc4-8094-faa86ed3243e.jpg",
+      "PackagePath": "staticwebassets\\images\\baadc0c3-eae4-4cc4-8094-faa86ed3243e.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\bulasik-makinesi.jpg",
+      "PackagePath": "staticwebassets\\images\\bulasik-makinesi.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\c696b58b-04b8-4bd4-bf57-24d59866093c.jpg",
+      "PackagePath": "staticwebassets\\images\\c696b58b-04b8-4bd4-bf57-24d59866093c.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\c8d1ada3-3ef9-4a67-923c-b65ec93fe631.jpg",
+      "PackagePath": "staticwebassets\\images\\c8d1ada3-3ef9-4a67-923c-b65ec93fe631.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\cb0c9f8f-ad07-4934-b101-a3fc99f3ec05.jpg",
+      "PackagePath": "staticwebassets\\images\\cb0c9f8f-ad07-4934-b101-a3fc99f3ec05.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\cfd6305f-53ac-4250-a806-8b7355a6df2d.jpg",
+      "PackagePath": "staticwebassets\\images\\cfd6305f-53ac-4250-a806-8b7355a6df2d.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\ea665e8e-534d-487c-82e5-efe26b6e4d32.jpg",
+      "PackagePath": "staticwebassets\\images\\ea665e8e-534d-487c-82e5-efe26b6e4d32.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\eb2673df-a038-49bc-8ff0-bc885de79d78.jpg",
+      "PackagePath": "staticwebassets\\images\\eb2673df-a038-49bc-8ff0-bc885de79d78.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\f4a6a4eb-cc08-4a83-848a-94db241b3d4e.jpg",
+      "PackagePath": "staticwebassets\\images\\f4a6a4eb-cc08-4a83-848a-94db241b3d4e.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\f73bd9a8-7936-4b58-b20a-86e231c99c91.jpg",
+      "PackagePath": "staticwebassets\\images\\f73bd9a8-7936-4b58-b20a-86e231c99c91.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\fc30fa3a-6405-41ee-939a-cc5ebd1e1614.jpg",
+      "PackagePath": "staticwebassets\\images\\fc30fa3a-6405-41ee-939a-cc5ebd1e1614.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\fef62891-d6f6-4f50-ab87-75d4ae832622.jpg",
+      "PackagePath": "staticwebassets\\images\\fef62891-d6f6-4f50-ab87-75d4ae832622.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\huawei-y7-2.jpg",
+      "PackagePath": "staticwebassets\\images\\huawei-y7-2.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\huawei-y7.jpg",
+      "PackagePath": "staticwebassets\\images\\huawei-y7.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\huawei-y9.jpg",
+      "PackagePath": "staticwebassets\\images\\huawei-y9.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\iphone-13.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone-13.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\iphone-x.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone-x.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\oppo.jpg",
+      "PackagePath": "staticwebassets\\images\\oppo.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\pantolon.jpg",
+      "PackagePath": "staticwebassets\\images\\pantolon.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\samsung-a10_.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung-a10_.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\samsung-galaxy-s9.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung-galaxy-s9.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\samsung-s10.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung-s10.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\slider1.png",
+      "PackagePath": "staticwebassets\\images\\slider1.png"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\slider2.png",
+      "PackagePath": "staticwebassets\\images\\slider2.png"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\slider3.png",
+      "PackagePath": "staticwebassets\\images\\slider3.png"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\telefon.jpg",
+      "PackagePath": "staticwebassets\\images\\telefon.jpg"
+    },
+    {
+      "Id": "D:\\internet_programlama\\my_e_ticaret_project\\showapp.webui\\wwwroot\\images\\xiamoi-redminote9.jpg",
+      "PackagePath": "staticwebassets\\images\\xiamoi-redminote9.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.showapp.webui.props",
+      "PackagePath": "build\\showapp.webui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.showapp.webui.props",
+      "PackagePath": "buildMultiTargeting\\showapp.webui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.showapp.webui.props",
+      "PackagePath": "buildTransitive\\showapp.webui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.showapp.webui.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

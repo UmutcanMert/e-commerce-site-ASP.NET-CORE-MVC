@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\shopapp.data",
+    "\\shopapp.data\\Abstract",
+    "\\shopapp.data\\Concreate",
+    "\\shopapp.data\\Concreate\\EfCore",
+    "\\shopapp.entity"
+  ],
+  "SelectedNode": "\\shopapp.data\\Concreate\\EfCore\\EfCoreProductRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,11 @@
+D:\internet_programlama\my_e_ticaret_project\shopapp.entity\bin\Debug\net7.0\shopapp.entity.deps.json
+D:\internet_programlama\my_e_ticaret_project\shopapp.entity\bin\Debug\net7.0\shopapp.entity.dll
+D:\internet_programlama\my_e_ticaret_project\shopapp.entity\bin\Debug\net7.0\shopapp.entity.pdb
+D:\internet_programlama\my_e_ticaret_project\shopapp.entity\obj\Debug\net7.0\shopapp.entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\internet_programlama\my_e_ticaret_project\shopapp.entity\obj\Debug\net7.0\shopapp.entity.AssemblyInfoInputs.cache
+D:\internet_programlama\my_e_ticaret_project\shopapp.entity\obj\Debug\net7.0\shopapp.entity.AssemblyInfo.cs
+D:\internet_programlama\my_e_ticaret_project\shopapp.entity\obj\Debug\net7.0\shopapp.entity.csproj.CoreCompileInputs.cache
+D:\internet_programlama\my_e_ticaret_project\shopapp.entity\obj\Debug\net7.0\shopapp.entity.dll
+D:\internet_programlama\my_e_ticaret_project\shopapp.entity\obj\Debug\net7.0\refint\shopapp.entity.dll
+D:\internet_programlama\my_e_ticaret_project\shopapp.entity\obj\Debug\net7.0\shopapp.entity.pdb
+D:\internet_programlama\my_e_ticaret_project\shopapp.entity\obj\Debug\net7.0\ref\shopapp.entity.dll
