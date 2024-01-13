@@ -16,7 +16,6 @@
     margin: auto;
   }
 </style>
-
 <table>
     <tr>
       <td>
