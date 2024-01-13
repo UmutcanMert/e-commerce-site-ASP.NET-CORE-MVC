@@ -12,7 +12,7 @@
 </table>
 <hr>
 
-##### Login-Register
+##### Login - Register
 <table>
   <tr>
     <td>
@@ -25,7 +25,7 @@
 </table>
 <hr>
 
-##### Login-Register
+##### Login - Homepage
 <table>
   <tr>
     <td>
