@@ -8,7 +8,7 @@
           <img src="site-pictures/2.png" witdh="300" height="300">
       </td>
     </tr>
-    <br>
+    <hr>
     <tr>
       <td>
           <img src="site-pictures/3.png" witdh="300" height="300">        
