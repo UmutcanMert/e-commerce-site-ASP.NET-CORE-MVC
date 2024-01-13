@@ -51,7 +51,7 @@
 </table>
 <hr>
 
-###### Role List
+###### Admin Categories
 <table>
   <tr>
     <td>
@@ -64,7 +64,7 @@
 </table>
 <hr>
 
-##### User List
+##### Role List
 <table>
   <tr>
     <td>
@@ -77,7 +77,7 @@
 </table>
 <hr>
 
-##### 7
+##### User List 
 <table>
   <tr>
     <td>
@@ -90,7 +90,7 @@
 </table>
 <hr>
 
-##### 8
+##### Shop Menu
 <table>
   <tr>
     <td>
