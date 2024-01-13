@@ -12,7 +12,7 @@
 </table>
 <hr>
 
-##### Login Register
+###### Login - Register
 <table>
   <tr>
     <td>
@@ -25,7 +25,7 @@
 </table>
 <hr>
 
-##### Login - Homepage
+###### Login - Homepage
 <table>
   <tr>
     <td>
@@ -38,7 +38,7 @@
 </table>
 <hr>
 
-##### 4
+###### Admin Products
 <table>
   <tr>
     <td>
@@ -51,7 +51,7 @@
 </table>
 <hr>
 
-##### 5
+###### 
 <table>
   <tr>
     <td>
