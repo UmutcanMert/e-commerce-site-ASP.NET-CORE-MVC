@@ -1,4 +1,22 @@
 # e-commerce-site-ASP.NET-CORE-MVC
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  img {
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+  }
+</style>
+
 <table>
     <tr>
       <td>
